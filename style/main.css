@@ -110,7 +110,18 @@ header nav a:hover{
 }
 
 .carrosel-filmes{
-    margin-top: 15px;
+    margin-top: 20px;
     margin-right: 15px;
     margin-left: 15px;
+}
+
+.carrosel-header{
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+footer{
+    margin-top: 20px;
+    padding: 25px;
+    background-color: #1a1a1a;
 }
